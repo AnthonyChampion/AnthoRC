@@ -1,6 +1,8 @@
 # 💫 About Me:
  Hi 🔭 I'm Anthony<br><br>I'm a full stack developer
 
+ <a href="https://app.daily.dev/anthonychampion"><img src="https://api.daily.dev/devcards/v2/UE4mSPD13W89bnlDP5Dr8.png?r=j8n" width="356" alt="Anthony Champion's Dev Card"/></a>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anthony-rodrigues-champion-368406188) 
